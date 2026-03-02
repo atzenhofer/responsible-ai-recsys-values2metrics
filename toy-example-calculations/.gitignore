@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Results - Keep results out of git history
+results/
+
+# IDE files
+.idea/
+.vscode/
