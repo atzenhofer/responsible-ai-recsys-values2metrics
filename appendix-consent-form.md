@@ -1,10 +1,10 @@
 # Appendix: Information on Data Processing and Consent
 
-*This document represents a template of the consent procedures used in our focus group study. Personal and institutional identifiers have been replaced with placeholders to protect privacy while providing methodological transparency.*
+*This document represents the consent procedures used in our focus group study. All personal and institutional identifiers (or references) have been removed for anonymization purposes.*
 
 ## Introduction
 
-[INSTITUTION] values your privacy and processes your personal data in compliance with the EU General Data Protection Regulation (GDPR) and beyond.
+[ANONYMIZED] values your privacy and processes your personal data in compliance with the EU General Data Protection Regulation (GDPR) and beyond.
 
 Your Personal Data is any information related to you. Processing is any operation performed on the data.
 
@@ -12,19 +12,19 @@ According to the Transparency Principle, this document will provide you with inf
 
 ## Who is the researcher and how can you contact them?
 
-**Name:** [RESEARCHER NAME]
-**Address:** [INSTITUTION ADDRESS]
-**E-mail:** [RESEARCHER EMAIL]
-**Alternative E-mail:** [ALTERNATIVE EMAIL]
+**Name:** [ANONYMIZED]
+**Address:** [ANONYMIZED]
+**E-mail:** [ANONYMIZED]
+**Alternative** **E-mail:** [ANONYMIZED]
 
 acting as the data controller within the meaning of the GDPR.
 
 ## For what purpose will your data be processed?
 
-Your data will be processed within [PROJECT NAME].
+Your data will be processed within [ANONYMIZED].
 
 **Project description:**  
-This study investigates how to design effective recommendation systems for digital archives by understanding stakeholder values and perspectives. Through focus group discussions, the researcher aims to identify the core values that stakeholders consider important in content recommendations, including aspects such as fairness, diversity, relevance, transparency, and accessibility. The insights gathered will be used to co-design appropriate metrics based on these identified values. The data collected during these focus groups may be used in [PUBLICATION VENUES]. The data will not be used beyond the scope of this project.
+This study investigates how to design effective recommendation systems for digital archives by understanding stakeholder values and perspectives. Through focus group discussions, the researcher aims to identify the core values that stakeholders consider important in content recommendations, including aspects such as fairness, diversity, relevance, transparency, and accessibility. The insights gathered will be used to co-design appropriate metrics based on these identified values. The data collected during these focus groups may be used in [ANONYMIZED]. The data will not be used beyond the scope of this project.
 
 **Note on Consent:** By receiving this document, participating in the scheduled focus group session (logging into the Zoom meeting), and not explicitly withdrawing consent via email or verbal communication, you are considered to have given your consent to the data processing described in this document. No additional physical signature is required if you choose to provide consent through your participation.
 
@@ -106,3 +106,4 @@ Moreover, you have the right to:
 
 - withdraw your consent to the processing of your personal data at any time (Art. 7(3) of the GDPR) by contacting the researcher. The withdrawal of consent will not affect the lawfulness of processing based on consent before its withdrawal;  
 - lodge a complaint with a supervisory authority.
+

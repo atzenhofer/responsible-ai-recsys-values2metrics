@@ -5,7 +5,7 @@ This appendix provides detailed information about the focus group methodology, m
 
 ## Methodology Overview
 
-We conducted structured focus groups with five stakeholder groups (upstream, provider, system, consumer, and downstream) to identify values for recommender systems in digital archives. Each group included five domain experts, partly representing high-profile institutions connected to Monasterium.net. Sessions lasted 60 minutes.
+We conducted structured focus groups with five stakeholder groups (upstream, provider, system, consumer, and downstream) to identify values for RecSys in digital archives. Each group included five domain experts, partly representing high-profile institutions connected to Monasterium.net. Sessions lasted 60 minutes and were held in March 2025.
 
 
 ## Stakeholder Groups
